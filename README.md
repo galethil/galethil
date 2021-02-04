@@ -1,18 +1,22 @@
-# Hi there 👋
-
 <img src="https://raw.githubusercontent.com/galethil/galethil/main/images/banner.gif">
 
-<!--
-**galethil/galethil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋
 
-Here are some ideas to get you started:
+I'm like swiss knife, I like multifunctionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building an online apps as well as building a tent in the forest. I love running a project as well as running to the hilltop to see sunrise. I have a PhD. in environmental science but currently I'm working as a software developer for few years and I'm looking forward to see what's coming next.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QWRvYmUgUGhvdG9zaG9wIGljb248L3RpdGxlPjxwYXRoIGQ9Ik05Ljg1IDguNDJjLS4zNy0uMTUtLjc3LS4yMS0xLjE4LS4yLS4yNiAwLS40OSAwLS42OC4wMS0uMi0uMDEtLjM0IDAtLjQxLjAxdjMuMzZjLjE0LjAxLjI3LjAyLjM5LjAyaC41M2MuMzkgMCAuNzgtLjA2IDEuMTUtLjE4LjMyLS4wOS42LS4yOC44Mi0uNTMuMjEtLjI1LjMxLS41OS4zMS0xLjAzLjAxLS4zMS0uMDctLjYyLS4yMy0uODktLjE3LS4yNi0uNDEtLjQ2LS43LS41N3pNMTkuNzUuM0g0LjI1QzEuOS4zIDAgMi4yIDAgNC41NXYxNC44OTljMCAyLjM1IDEuOSA0LjI1IDQuMjUgNC4yNWgxNS41YzIuMzUgMCA0LjI1LTEuOSA0LjI1LTQuMjVWNC41NUMyNCAyLjIgMjIuMS4zIDE5Ljc1LjN6bS03LjM5MSAxMS42NWMtLjM5OS41Ni0uOTU5Ljk4LTEuNjA5IDEuMjItLjY4LjI1LTEuNDMuMzQtMi4yNS4zNC0uMjQgMC0uNCAwLS41LS4wMXMtLjI0LS4wMS0uNDMtLjAxdjMuMjA5Yy4wMS4wNy0uMDQuMTMxLS4xMS4xNDFINS41MmMtLjA4IDAtLjEyLS4wNDEtLjEyLS4xMzFWNi40MmMwLS4wNy4wMy0uMTEuMS0uMTEuMTcgMCAuMzMgMCAuNTYtLjAxLjI0LS4wMS40OS0uMDEuNzYtLjAycy41Ni0uMDEuODctLjAyYy4zMS0uMDEuNjEtLjAxLjkxLS4wMS44MiAwIDEuNS4xIDIuMDYuMzEuNS4xNy45Ni40NSAxLjM0LjgyLjMyLjMyLjU3LjcxLjczIDEuMTQuMTQ5LjQyLjIyOS44NS4yMjkgMS4zLjAwMS44Ni0uMTk5IDEuNTctLjYgMi4xM3ptNy4wOTEgMy44OWMtLjI4LjQtLjY3MS43MDktMS4xMi44OTEtLjQ5LjIwOS0xLjA5LjMxOC0xLjgxMS4zMTgtLjQ1OSAwLS45MS0uMDM5LTEuMzU5LS4xMjktLjM1LS4wNjEtLjctLjE3LTEuMDItLjMyLS4wNy0uMDM5LS4xMjEtLjEwOS0uMTExLS4xODl2LTEuNzRjMC0uMDI5LjAxMS0uMDcuMDQxLS4wOS4wMjktLjAyLjA2LS4wMS4wOS4wMS4zOS4yMy44LjM5MSAxLjI0LjQ5LjM3OS4xLjc3OS4xNSAxLjE4LjE1LjM4IDAgLjY1LS4wNTEuODMtLjE0MS4xNi0uMDcuMjctLjI0LjI3LS40MiAwLS4xNDEtLjA4LS4yNy0uMjQtLjQtLjE2LS4xMjktLjQ4OS0uMjc5LS45NzktLjQ3MS0uNTEtLjE4LS45NzktLjQyLTEuNDItLjcxOS0uMzEtLjIyMS0uNTY5LS41MS0uNzYxLS44NS0uMTU5LS4zMi0uMjM5LS42Ny0uMjI5LTEuMDIxIDAtLjQzLjEyLS44NC4zNDEtMS4yMS4yNS0uNC42MTktLjcyIDEuMDQ5LS45Mi40NjktLjIzOSAxLjA1OS0uMzQ5IDEuNzY5LS4zNDkuNDEgMCAuODMuMDMgMS4yNC4wOS4zLjA0LjU5LjEyLjg2LjIzLjAzOS4wMS4wOC4wNS4xLjA5LjAxLjA0LjAyLjA4LjAyLjEydjEuNjNjMCAuMDQtLjAyLjA4LS4wNS4xLS4wOS4wMi0uMTQuMDItLjE4IDAtLjMtLjE2LS42Mi0uMjctLjk2LS4zNC0uMzctLjA4LS43NC0uMTMtMS4xMi0uMTMtLjItLjAxLS40MS4wMi0uNjAxLjA3LS4xMjkuMDMtLjI0LjEtLjMxLjItLjA1LjA4LS4wOC4xOC0uMDguMjdzLjA0LjE4LjEwMS4yNmMuMDkuMTEuMjA5LjIuMzQuMjcuMjI5LjEyLjQ3LjIzLjcwOS4zMy41NDEuMTggMS4wNjEuNDMgMS41NDEuNzMuMzMuMjA5LjYuNDkuNzg5LjgzLjE2LjMxOC4yNC42Ny4yMyAxLjAyOS4wMTEuNDcxLS4xMjkuOTQtLjM4OSAxLjMzMXoiLz48L3N2Zz4=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QWRvYmUgSWxsdXN0cmF0b3IgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTEwLjUzIDEwLjczYy0uMS0uMzEtLjE5LS42MS0uMjktLjkyLS4xLS4zMS0uMTktLjYtLjI3LS44OS0uMDgtLjI4LS4xNS0uNTQtLjIyLS43OGgtLjAyYy0uMDkuNDMtLjIuODYtLjM0IDEuMjktLjE1LjQ4LS4zLjk4LS40NiAxLjQ4LS4xNC41MS0uMjkuOTgtLjQ0IDEuNGgyLjU0Yy0uMDYtLjIxMS0uMTQtLjQ2LS4yMy0uNzIxLS4wOS0uMjY5LS4xOC0uNTU5LS4yNy0uODU5ek0xOS43NS4zSDQuMjVDMS45LjMgMCAyLjIgMCA0LjU1djE0LjljMCAyLjM1IDEuOSA0LjI1IDQuMjUgNC4yNWgxNS41YzIuMzUgMCA0LjI1LTEuOSA0LjI1LTQuMjVWNC41NUMyNCAyLjIgMjIuMS4zIDE5Ljc1LjN6TTE0LjcgMTYuODNoLTIuMDkxYy0uMDY5LjAxLS4xMzktLjA0LS4xNTktLjExbC0uODItMi4zOEg3LjkxbC0uNzYgMi4zNWMtLjAyLjA5LS4xLjE1LS4xOS4xNDFINS4wOGMtLjExIDAtLjE0LS4wNjEtLjExLS4xOEw4LjE5IDcuMzhjLjAzLS4xLjA2LS4yMS4xLS4zMy4wNC0uMjEuMDYtLjQzLjA2LS42NS0uMDEtLjA1LjAzLS4xLjA4LS4xMWgyLjU5Yy4wOCAwIC4xMi4wMy4xMy4wOGwzLjY1IDEwLjNjLjAzLjEwOSAwIC4xNi0uMS4xNnptMy40LS4xNWMwIC4xMS0uMDM5LjE2LS4xMjkuMTZIMTYuMDFjLS4xIDAtLjE1LS4wNjEtLjE1LS4xNnYtNy43YzAtLjEuMDQxLS4xNC4xMzEtLjE0aDEuOThjLjA5IDAgLjEyOS4wNS4xMjkuMTR2Ny43em0tLjIwOS05LjAzYy0uMjMxLjI0LS41NzEuMzctLjkxMS4zNS0uMzMuMDEtLjY1LS4xMi0uODkxLS4zNS0uMjMtLjI1LS4zNS0uNTgtLjM0LS45Mi0uMDEtLjM0LjEyLS42Ni4zNTktLjg5LjI0Mi0uMjMuNTYyLS4zNS44OTItLjM1LjM5MSAwIC42ODkuMTIuOTEuMzUuMjIuMjQuMzQuNTYuMzMuODkuMDEuMzQtLjExLjY3LS4zNDkuOTJ6Ii8+PC9zdmc+&logoColor=white&color=2bbc8a)
