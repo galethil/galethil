@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/galethil/galethil/main/images/banner.gif">
-
 # Hi 👋
 
 I'm like swiss knife, I like multifunctionality.
